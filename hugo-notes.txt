@@ -1,0 +1,63 @@
+Hugo is a fast and modern static site generator written in Go. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.
+
+Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere, including Netlify, Heroku, GoDaddy, DreamHost, GitHub Pages, GitLab Pages, Surge, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, and CloudFront and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
+
+We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+###############################################################
+
+Run these commands to create a Hugo site with the Ananke theme:
+    hugo new site quickstart
+    cd quickstart
+    git init
+    git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke themes/ananke
+    echo "theme = 'ananke'" >> config.toml
+    hugo server
+
+hugo new posts/my-first-post.md -> Add a new post page to your site. Hugo created the file in the content/posts directory. Open the file with your editor and start writing your post.
+
+hugo version -> shows whats the hugo version installed on your system.
+
+hugo server -> Develop and test your site.
+
+hugo server -D -> Develop and test your site, and build draft posts also.
+
+hugo server --disableFastRender -> Develop and test your site, with live reload enabled.
+
+hugo -> When are ready to deploy your site. Hugo does not clear the public directory before building your site. Manually clear the contents of the public directory before each build to remove draft, expired, and future content.
+
+I prefer to use: hugo server -D --disableFastRender
+
+"hugo" command builds your site, publishing the files to the public directory. The directory structure will look something like this:
+
+public/
+├── categories/
+│   ├── index.html
+│   └── index.xml  <-- RSS feed for this section
+├── post/
+│   ├── my-first-post/
+│   │   └── index.html
+│   ├── index.html
+│   └── index.xml  <-- RSS feed for this section
+├── tags/
+│   ├── index.html
+│   └── index.xml  <-- RSS feed for this section
+├── index.html
+├── index.xml      <-- RSS feed for the site
+└── sitemap.xml
+
+Every post scratch template:
+---
+title: "Spring Boot Refresher"
+date: 2022-03-08T18:19:05+05:30
+draft: false
+categories: [tech, blog]
+tags: [spring boot, java]
+description: "Refresh yourself with basic concepts from Spring Boot"
+author: "Anshul Gautam"
+---
+
+
+
+
+
+
