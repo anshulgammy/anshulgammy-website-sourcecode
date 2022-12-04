@@ -1,4 +1,4 @@
-baseURL: "https://anshulgautam.in/"
+baseURL: "https://anshulgautam.in"
 title: Anshul Gautam
 paginate: 5
 theme: PaperMod
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
