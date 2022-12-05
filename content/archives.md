@@ -1,6 +1,6 @@
 ---
-title: "Archive"
+title: "Chronicles"
 layout: "archives"
-url: "/archives/"
-summary: archives
+url: "/chronicles/"
+summary: Chronicles of the learning on this website
 ---

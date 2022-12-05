@@ -1,10 +1,14 @@
 ---
-title: "Contact Me"
+title: "Contact"
 date: 2022-01-04T13:28:54+05:30
 draft: false
 categories: [profile, contact-me]
 tags: [profile, contact-me]
 ---
+
+Looking forward to hear from you. Please fill the form below and send me a message.
+
+Thanks!
 
 {{< rawhtml >}}
 <form action="https://public.herotofu.com/v1/83eaabf0-73ab-11ed-a126-b172cf164538" method="post">

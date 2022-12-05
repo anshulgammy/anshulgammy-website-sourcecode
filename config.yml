@@ -1,4 +1,4 @@
-baseURL: "https://www.anshulgautam.in"
+baseURL: "https://anshulgautam.in"
 title: Anshul Gautam
 paginate: 5
 theme: PaperMod
@@ -66,8 +66,10 @@ params:
     imageHeight: 120
     imageTitle: Anshul Gautam
     buttons:
-      - name: Complete Profile
+      - name: Profile
         url: /page/about-me
+      - name: Chronicles
+        url: /chronicles
       #- name: Projects
       #  url: /categories/
       #- name: Tags
@@ -75,8 +77,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Anshul Gautam"
+    Content: "Hi!👋 I am a **Software Engineer** and **Blogger** from India. 👨‍💻 I expertise in designing and developing enterprise applications using **Java**, **Spring Boot**, **Reactive Spring** and **Big Data Technologies**. ✒️ I blog about **Software Development**; write **Short Stories** and **Free Verse Poetry**. 🕹️ I love **PC Games** and I am also a proud **PlayStation** owner."
 
   socialIcons:
     - name: linkedin
@@ -121,29 +123,29 @@ menu:
       url: /
       weight: 10
     - identifier: about-me
-      name: About Me
-      url: /page/about-me
+      name: About
+      url: /about-me
       weight: 20
     - identifier: blog
       name: Blog
       url: /blog
       weight: 30
-    - identifier: archive
-      name: Archive
-      url: /archives
+    #- identifier: archive
+    #  name: Archive
+    #  url: /archives
+    #  weight: 40
+    - identifier: contact
+      name: Contact
+      url: /contact
       weight: 40
     - identifier: search
-      name: Search
+      name: 🔎︎
       url: /search
       weight: 50
     #- identifier: creative-writing
     #  name: Creative Writing
     #  url: "https://blog.anshulgautam.in/"
     #  weight: 40
-    - identifier: contact
-      name: Contact
-      url: /page/contact-me
-      weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
