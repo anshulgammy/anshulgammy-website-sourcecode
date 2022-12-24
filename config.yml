@@ -60,16 +60,16 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Anshul Gautam
-    subtitle: "Hi!👋 I am a **Software Engineer** and **Blogger** from India. 👨‍💻 I expertise in designing and developing enterprise applications using **Java**, **Spring Boot**, **Reactive Spring** and **Big Data Technologies**. ✒️ I blog about **Software Development**; write **Short Stories** and **Free Verse Poetry**. 🕹️ I love **PC Games** and I am also a proud **PlayStation** owner."
+    subtitle: "Hi!👋 I am a **Software Engineer** and **Blogger** from India. 👨‍💻 I expertise in designing and developing enterprise applications using **Java**, **Spring Boot**, **Reactive Spring** and **Big Data Technologies**. ✒️ I blog about **Software Development**; write **Short Stories** and **Free Verse**. 🕹️ I love **PC Games** and I am also a proud **PlayStation** owner."
     imageUrl: "/img/Anshul Gautam.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Anshul Gautam
     buttons:
       - name: Profile
-        url: /page/about-me
-      - name: Chronicles
-        url: /chronicles
+        url: /about-me/
+      - name: Chronicle
+        url: /chronicle
       #- name: Projects
       #  url: /categories/
       #- name: Tags
@@ -78,7 +78,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Anshul Gautam"
-    Content: "Hi!👋 I am a **Software Engineer** and **Blogger** from India. 👨‍💻 I expertise in designing and developing enterprise applications using **Java**, **Spring Boot**, **Reactive Spring** and **Big Data Technologies**. ✒️ I blog about **Software Development**; write **Short Stories** and **Free Verse Poetry**. 🕹️ I love **PC Games** and I am also a proud **PlayStation** owner."
+    Content: "Hi!👋 I am a **Software Engineer** and **Blogger** from India. 👨‍💻 I expertise in designing and developing enterprise applications using **Java**, **Spring Boot**, **Reactive Spring** and **Big Data Technologies**. ✒️ I blog about **Software Development**; write **Short Stories** and **Free Verse**. 🕹️ I love **PC Games** and I am also a proud **PlayStation** owner."
 
   socialIcons:
     - name: linkedin

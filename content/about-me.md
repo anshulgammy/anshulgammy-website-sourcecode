@@ -16,7 +16,7 @@ Currently I am focussing on building fault tolerant data ingestion frameworks in
 
 I am an avid gamer. I love playing **PC** and **PlayStation** games.
 
-I am active as a **Blogger**. I mostly blog about **Software Development**, write **Short Stories** and **Free Verse Poetry**. Most of the blog posts on this website are related to tools, techniques and use cases from the field of Software Development and Engineering. For my blog posts on creative writing, please check out **[Bumbler](https://blog.anshulgautam.in/)**.
+I am active as a **Blogger**. I mostly blog about **Software Development**, write **Short Stories** and **Free Verse**. Most of the blog posts on this website are related to tools, techniques and use cases from the field of Software Development and Engineering. For my blog posts on creative writing, please check out **[Bumbler](https://blog.anshulgautam.in/)**.
 
 I would love to hear back from you in form of your comments on posts and through your e-mails. You can always reach out to me at my social coordinates.
 
