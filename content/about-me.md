@@ -8,11 +8,11 @@ tags: [profile, about]
 
 *Hello World!* 👋 My name is **Anshul Gautam**.
 
-I grew up in [Patna](https://en.wikipedia.org/wiki/Patna), a city in Bihar state of India. I have been working as a **Software Engineer** since 2014, after completing my **B-Tech** in **Computer Science & Engineering** (class of 2010-2014).
+I grew up in [Patna](https://en.wikipedia.org/wiki/Patna), capital of Bihar state in India. I have been working as a **Software Engineer** since 2014, after completing my **B-Tech** in **Computer Science & Engineering** (class of 2010-2014).
 
 As a Software Engineer I have primarily worked on designing and building scalable distributed enterprise applications in **Media** and **Finance** domains. I have expertise in **Java**, **Spring Boot**, **Reactive Spring** and **Microservices** architectured applications. I have worked on relational database systems like **MS-SQL Server** and non-relational database systems like **Cassandara** and **Couchbase**.
 
-Currently I am focussing on building fault tolerant data ingestion frameworks in finance domain, using Java and Big Data Technologies such as **Hadoop**, **MapReduce**, **Hive** and **Apache Spark**.
+Currently I am focussing on building fault tolerant data ingestion frameworks in finance domain, using **Java** and **Big Data Technologies** such as **Hadoop**, **MapReduce**, **Hive** and **Apache Spark**.
 
 I am an avid gamer. I love playing **PC** and **PlayStation** games.
 
