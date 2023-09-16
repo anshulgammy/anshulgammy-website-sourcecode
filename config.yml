@@ -1,6 +1,6 @@
 baseURL: "https://anshulgautam.in"
 title: Anshul Gautam
-paginate: 5
+paginate: 7
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Anshul Gautam
-  description: "ExampleSite description"
+  description: "Anshul Gautam's blog to share and learn about software development"
   keywords: [Anshul Gautam, Blog, Portfolio]
   author: Anshul Gautam
   # author: ["Me", "You"] # multiple authors
@@ -32,7 +32,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: false
+  ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -54,21 +54,21 @@ params:
   label:
     text: "Utopian Nerd"
     icon: ""
-    iconHeight: 35
+    iconHeight: 11
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Anshul Gautam
-    subtitle: "Hi!👋 I am a **Software Engineer** and **Blogger** from India. 👨‍💻 I expertise in designing and developing enterprise applications using **Java**, **Spring Boot**, **Reactive Spring** and **Big Data Technologies**. ✒️ I blog about **Software Development**; write **Short Stories** and **Free Verse**. 🕹️ I love **PC Games** and I am also a proud **PlayStation** owner."
+    subtitle: "Hello World! 👋</br> I am a **Software Engineer** from India. I architect and build Enterprise Applications using **Java**, **Spring Boot**, **Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I love playing **PC Games** and I am also a proud **PlayStation** owner."
     imageUrl: "/img/Anshul Gautam.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 175
+    imageHeight: 175
     imageTitle: Anshul Gautam
     buttons:
-      - name: Profile
+      - name: About Me
         url: /about-me/
-      - name: Chronicle
+      - name: Blog Chronicle
         url: /chronicle
       #- name: Projects
       #  url: /categories/
@@ -78,7 +78,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Anshul Gautam"
-    Content: "Hi!👋 I am a **Software Engineer** and **Blogger** from India. 👨‍💻 I expertise in designing and developing enterprise applications using **Java**, **Spring Boot**, **Reactive Spring** and **Big Data Technologies**. ✒️ I blog about **Software Development**; write **Short Stories** and **Free Verse**. 🕹️ I love **PC Games** and I am also a proud **PlayStation** owner."
+    Content: "Hello World! 👋</br> I am a **Software Engineer** from India. I architect and build Enterprise Applications using **Java**, **Spring Boot**, **Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I love playing **PC Games** and I am also a proud **PlayStation** owner."
 
   socialIcons:
     - name: linkedin
@@ -101,10 +101,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  #editPost:
+    #URL: "https://github.com/<path_to_repo>/content"
+    #Text: "Suggest Changes" # edit text
+    #appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -158,7 +158,7 @@ markup:
     #style: monokai
   goldmark:
     renderer:
-      unsafe: false
+      unsafe: true
 outputs:
     home:
         - HTML

@@ -8,7 +8,8 @@
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1>
-    {{ .Title }}
+    <!--{{ .Title }}-->
+    Blog Posts
     {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param "ShowRssButtonInSectionTermList") }}
     <a href="index.xml" title="RSS" aria-label="RSS">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
@@ -22,7 +23,7 @@
   </h1>
   <!-- I have described about my types of posts here, including link to Bumbler blog below -->
   <div class="post-description">
-    <span>My latest posts from the field of <b>Software Development</b> and <b>Engineering</b>. For my blog posts on creative writing please check out: <a href="https://blog.anshulgautam.in" target="_blank" style="box-shadow: 0 1px;"><b>Bumbler</b></a>.</span>
+    <span><i>For my posts on creative writing, please check out: <a href="https://blog.anshulgautam.in" target="_blank" style="box-shadow: 0 1px;"><b>Bumbler</b></a>.</i></span>
   </div>
   {{- if .Description }}
   <div class="post-description">
