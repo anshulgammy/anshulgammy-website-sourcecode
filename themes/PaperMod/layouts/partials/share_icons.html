@@ -14,6 +14,9 @@
 {{- with $ShareButtons }}{{ $custom = true }}{{ end }}
 
 <div class="share-buttons">
+    <b>Share This Article:</b>
+</div>
+<div class="share-buttons">
     {{- if (cond ($custom) (in $ShareButtons "twitter") (true)) }}
     <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on twitter"
         href="https://twitter.com/intent/tweet/?text={{ $title }}&amp;url={{ $pageurl }}&amp;hashtags={{- $.Scratch.Get "tags" -}}">

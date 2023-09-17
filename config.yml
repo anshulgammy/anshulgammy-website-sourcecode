@@ -23,7 +23,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light, auto
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -53,17 +53,17 @@ params:
 
   label:
     text: "Utopian Nerd"
-    icon: ""
-    iconHeight: 11
+    icon: "/img/logo-white.png"
+    iconHeight: 100
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Anshul Gautam
-    subtitle: "Hello World! 👋</br> I am a **Software Engineer** from India.</br> I architect and build Enterprise Applications using **Java**, **Spring Boot**, </br>**Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I love playing **PC Games** and I am also a proud **PlayStation** owner."
+    subtitle: "Hello World! 👋</br> I am a **Software Engineer** from **India**.</br> I architect and develop Enterprise Applications using **Java**, **Spring Boot**, </br>**Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I enjoy playing campaign **PC Games** and I am also a proud **PlayStation** owner."
     imageUrl: "/img/Anshul Gautam.jpg"
-    imageWidth: 175
-    imageHeight: 175
+    imageWidth: 151
+    imageHeight: 151
     imageTitle: Anshul Gautam
     buttons:
       - name: About Me
@@ -78,7 +78,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Anshul Gautam"
-    Content: "Hello World! 👋</br> I am a **Software Engineer** from India.</br> I architect and build Enterprise Applications using **Java**, **Spring Boot**, </br>**Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I love playing **PC Games** and I am also a proud **PlayStation** owner."
+    Content: "Hello World! 👋</br> I am a **Software Engineer** from **India**.</br> I architect and develop Enterprise Applications using **Java**, **Spring Boot**, </br>**Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I enjoy playing campaign **PC Games** and I am also a proud **PlayStation** owner."
 
   socialIcons:
     - name: linkedin
