@@ -8,5 +8,5 @@ Codebase for my website at https://www.anshulgautam.in/. This is my personal web
 - Content written in form of blog posts on this website are mine, and they must not be copied or reproduced without proper attributions and my permission. All rights reserved by [Anshul Gautam](https://github.com/anshulgammy).
 - I am hosting this repository publicly as a learning experience, and it also compliments [giscus](https://github.com/giscus/giscus) as commenting system on this website.
 
-## Working with Hugo
+## Working with Hugo:
 Please refer to ./hugo-notes.txt to get complete details on working with Hugo, and creating structured blog posts for this website.
