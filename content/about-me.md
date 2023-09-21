@@ -39,9 +39,9 @@ For my blog posts on creative writing, please check out **[Bumbler](https://blog
 
 - I am an avid gamer too. I love playing campaign **PC** and **PlayStation** games.
 
-I would love to hear back from you in form of your comments on posts, and through your e-mails. You can always reach out to me at my social coordinates below:
+I would love to hear back from you in form of your comments on my posts, and through your e-mails. You can email me from the "Contact" link on the nav bar. You can always reach out to me at my social coordinates below:
 
-[Email](mailto:anshulgammy@gmail.com) | 
+
 [Linkedin](https://www.linkedin.com/in/anshulgammy/) | 
 [Github](https://github.com/anshulgammy) | 
 [Twitter](https://twitter.com/anshulgammy)
