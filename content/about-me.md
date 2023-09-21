@@ -16,13 +16,13 @@ My name is **Anshul Gautam**.
 - As a **Software Engineer** I have extensively worked on architecting and developing cloud-agnostic scalable distributed enterprise applications in **Media** and **Finance** business domains.
 
 ## Tech Stack
-> **Java Ecosystem**: <i>Java 11, Spring Boot, Spring Web Reactive, Microservices, Apache Kafka, HDFS, MapReduce, Hive, Apache Spark, Docker and AWS Cloud Platform</i>.
-
 - I have expertise in **Java**, **Spring Boot**, **Reactive Programming** using **Project Reactor** and **Microservices** architectured applications.
 
 - During my journey in IT Industry, I have worked on relational database systems like **MS-SQL Server** and non-relational database systems like **Cassandara** and **Couchbase**.
 
 - I have hands on experience with **Docker** and **AWS** cloud platform.
+
+- I use **Windows 11** with **WSL2** on my personal development machine. I am a **GNOME** enthusiast though.
 
 Currently I am focussing on building fault tolerant data ingestion frameworks in **Finance** business domain using **Java**, **Apache Kafka** and **Big Data Technologies** from **Hadoop Ecosystem**.
 

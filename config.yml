@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Anshul Gautam
-    subtitle: "Hello World! 👋</br> I am a **Software Craftsman** from **India**.</br> I architect and develop Enterprise Applications using **Java**, **Spring Boot**, </br>**Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I enjoy playing campaign **PC Games** and I am also a proud **PlayStation** owner."
+    subtitle: "<i>Hello World!</i></br> 🧑‍💻 I am a **Software Craftsman** from **India**.</br> 🖥️ This website, **Utopian Nerd**, is where I share my learning journey.</br>🖊️ I **blog** about my experimentation with **Software Engineering**."
     imageUrl: "/img/Anshul Gautam.jpg"
     imageWidth: 151
     imageHeight: 151
@@ -78,7 +78,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Anshul Gautam"
-    Content: "Hello World! 👋</br> I am a **Software Craftsman** from **India**.</br> I architect and develop Enterprise Applications using **Java**, **Spring Boot**, </br>**Spring Web Reactive** and **Big Data Technologies**. </br> I blog about **Software Development**; write **Short Stories** and **Verselets**. </br> I enjoy playing campaign **PC Games** and I am also a proud **PlayStation** owner."
+    Content: "<i>Hello World!</i></br> 🧑‍💻 I am a **Software Craftsman** from **India**.</br> 🖥️ This website, **Utopian Nerd**, is where I share my learning journey.</br>🖊️ I **blog** about my experimentation with **Software Engineering**."
 
   socialIcons:
     - name: linkedin
