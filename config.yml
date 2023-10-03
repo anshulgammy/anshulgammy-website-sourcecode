@@ -68,10 +68,10 @@ params:
     buttons:
       - name: About Me
         url: /about-me/
-      - name: Blog Chronicle
+      - name: Tech Blog Chronicle
         url: /chronicle
-      #- name: Projects
-      #  url: /categories/
+      - name: Creative Writing
+        url: https://blog.anshulgautam.in/
       #- name: Tags
       #  url: /tags/
 
