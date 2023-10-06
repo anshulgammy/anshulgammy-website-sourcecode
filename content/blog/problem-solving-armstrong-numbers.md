@@ -4,8 +4,8 @@ date: 2018-02-03T23:21:33+05:30
 draft: false
 categories: [tech, blog]
 tags: [problem-solving, armstrong-numbers, java]
-description: "How to check to check if a given Integer is Armstrong number or not. using Java"
-summary: "How to check to check if a given Integer is Armstrong number or not. using Java"
+description: "How to check to check if a given Integer is Armstrong number or not using Java"
+summary: "How to check to check if a given Integer is Armstrong number or not using Java"
 author: "Anshul Gautam"
 ---
 
