@@ -22,9 +22,7 @@ My name is **Anshul Gautam**.
 
 - I have hands on experience with **Docker** and **AWS** cloud platform.
 
-- I use **Windows 11** with **WSL2** on my personal development machine. I am a **GNOME** enthusiast though.
-
-Currently I am focussing on building fault tolerant data ingestion frameworks in **Finance** business domain using **Java**, **Apache Kafka** and **Big Data Technologies** from **Hadoop Ecosystem**.
+Currently I am focussing on building fault tolerant data ingestion frameworks in **Finance** business domain using **Java**, **Apache Kafka** and **Big Data Technologies**.
 
 ## Professional Experience
 | Period                                 | Organization
@@ -44,4 +42,4 @@ I would love to hear back from you in form of your comments on my posts, and thr
 
 [Linkedin](https://www.linkedin.com/in/anshulgammy/) | 
 [Github](https://github.com/anshulgammy) | 
-[Twitter](https://twitter.com/anshulgammy)
+[X](https://x.com/anshulgammy)

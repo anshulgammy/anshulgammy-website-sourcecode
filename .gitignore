@@ -105,3 +105,6 @@ dist
 
 # public folder
 public/
+
+# Ignore .DS_Store files
+.DS_Store
